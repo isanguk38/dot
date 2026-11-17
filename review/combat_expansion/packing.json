@@ -1,0 +1,74 @@
+{
+  "guard": {
+    "frames": 4,
+    "cell": [
+      64,
+      64
+    ],
+    "scale": 0.08724770642201835
+  },
+  "hurt": {
+    "frames": 6,
+    "cell": [
+      64,
+      64
+    ],
+    "scale": 0.11457831325301204
+  },
+  "death": {
+    "frames": 6,
+    "cell": [
+      64,
+      64
+    ],
+    "scale": 0.1368345323741007
+  },
+  "knockdown": {
+    "frames": 8,
+    "cell": [
+      64,
+      64
+    ],
+    "scale": 0.21133333333333332
+  },
+  "enemy_idle": {
+    "frames": 4,
+    "cell": [
+      64,
+      64
+    ],
+    "scale": 0.09566787003610107
+  },
+  "enemy_attack": {
+    "frames": 8,
+    "cell": [
+      64,
+      64
+    ],
+    "scale": 0.12062470569769265
+  },
+  "enemy_hurt": {
+    "frames": 8,
+    "cell": [
+      64,
+      64
+    ],
+    "scale": 0.12062470569769265
+  },
+  "enemy_knockdown": {
+    "frames": 8,
+    "cell": [
+      64,
+      64
+    ],
+    "scale": 0.14474964683723118
+  },
+  "enemy_death": {
+    "frames": 6,
+    "cell": [
+      64,
+      64
+    ],
+    "scale": 0.11247438774514586
+  }
+}

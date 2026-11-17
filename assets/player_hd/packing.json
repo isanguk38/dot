@@ -1,0 +1,92 @@
+{
+  "run": {
+    "cell": [
+      64,
+      64
+    ],
+    "frames": 8,
+    "visor_width": 9.0,
+    "scale": 0.1837
+  },
+  "idle": {
+    "cell": [
+      64,
+      64
+    ],
+    "frames": 8,
+    "visor_width": 9.0,
+    "scale": 0.1837
+  },
+  "jump": {
+    "cell": [
+      64,
+      64
+    ],
+    "frames": 8,
+    "visor_width": 9.0,
+    "scale": 0.18
+  },
+  "double_jump": {
+    "cell": [
+      64,
+      64
+    ],
+    "frames": 8,
+    "visor_width": 9.0,
+    "scale": 0.1957
+  },
+  "punch": {
+    "cell": [
+      64,
+      64
+    ],
+    "frames": 8,
+    "visor_width": 9.0,
+    "scale": 0.1915
+  },
+  "jab": {
+    "cell": [
+      64,
+      64
+    ],
+    "frames": 8,
+    "visor_width": 9.0,
+    "scale": 0.18
+  },
+  "kick": {
+    "cell": [
+      64,
+      64
+    ],
+    "frames": 8,
+    "visor_width": 9.0,
+    "scale": 0.1818
+  },
+  "uppercut": {
+    "cell": [
+      64,
+      64
+    ],
+    "frames": 8,
+    "visor_width": 9.0,
+    "scale": 0.1875
+  },
+  "backstep": {
+    "cell": [
+      64,
+      64
+    ],
+    "frames": 8,
+    "visor_width": 9.0,
+    "scale": 0.1837
+  },
+  "air_combo": {
+    "cell": [
+      64,
+      64
+    ],
+    "frames": 8,
+    "visor_width": 9.0,
+    "scale": 0.18
+  }
+}

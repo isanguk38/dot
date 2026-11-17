@@ -1,0 +1,119 @@
+{
+  "run": {
+    "frames": 8,
+    "cell": [
+      64,
+      64
+    ],
+    "visor_major_axis": 9.51,
+    "fixed_strip_scale": 0.1475
+  },
+  "idle": {
+    "frames": 4,
+    "cell": [
+      64,
+      64
+    ],
+    "visor_major_axis": 9.51,
+    "fixed_strip_scale": 0.0942
+  },
+  "jump": {
+    "frames": 8,
+    "cell": [
+      64,
+      64
+    ],
+    "visor_major_axis": 9.51,
+    "fixed_strip_scale": 0.17783
+  },
+  "double_jump": {
+    "frames": 8,
+    "cell": [
+      64,
+      64
+    ],
+    "visor_major_axis": 9.51,
+    "fixed_strip_scale": 0.16691
+  },
+  "punch": {
+    "frames": 8,
+    "cell": [
+      64,
+      64
+    ],
+    "visor_major_axis": 9.51,
+    "fixed_strip_scale": 0.18296
+  },
+  "jab": {
+    "frames": 8,
+    "cell": [
+      64,
+      64
+    ],
+    "visor_major_axis": 9.51,
+    "fixed_strip_scale": 0.16126
+  },
+  "kick": {
+    "frames": 8,
+    "cell": [
+      64,
+      64
+    ],
+    "visor_major_axis": 9.51,
+    "fixed_strip_scale": 0.18296
+  },
+  "uppercut": {
+    "frames": 8,
+    "cell": [
+      64,
+      64
+    ],
+    "visor_major_axis": 9.51,
+    "fixed_strip_scale": 0.15345
+  },
+  "backstep": {
+    "frames": 8,
+    "cell": [
+      64,
+      64
+    ],
+    "visor_major_axis": 9.51,
+    "fixed_strip_scale": 0.16691
+  },
+  "air_combo": {
+    "frames": 8,
+    "cell": [
+      64,
+      64
+    ],
+    "visor_major_axis": 9.51,
+    "fixed_strip_scale": 0.16404
+  },
+  "crouch_idle": {
+    "frames": 4,
+    "cell": [
+      64,
+      64
+    ],
+    "visor_major_axis": 9.51,
+    "fixed_strip_scale": 0.09369
+  },
+  "crouch_walk": {
+    "frames": 8,
+    "cell": [
+      64,
+      64
+    ],
+    "visor_major_axis": 9.51,
+    "fixed_strip_scale": 0.15095
+  },
+  "crouch_combo": {
+    "frames": 8,
+    "cell": [
+      64,
+      64
+    ],
+    "visor_major_axis": 9.51,
+    "fixed_strip_scale": 0.18466
+  }
+}

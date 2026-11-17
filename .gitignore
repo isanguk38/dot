@@ -1,0 +1,7 @@
+.godot/
+.runtime/
+*.log
+# 번들 Godot 엔진 (180MB, GitHub 100MB 제한 초과) — godotengine.org에서 4.7.2 받아 .engine/에 넣기
+.engine/
+__pycache__/
+*.pyc

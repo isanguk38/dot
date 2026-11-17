@@ -1,0 +1,27 @@
+{
+  "source": "assets/player/run.png, cell 0",
+  "output": "review/run_pose/run_stride_v2.png",
+  "source_cell_size": [
+    64,
+    64
+  ],
+  "output_cell_size": [
+    64,
+    64
+  ],
+  "part_scaling": false,
+  "new_opaque_colors": 0,
+  "head_transform": "unchanged pixels, translated +9,+3",
+  "body_rotation_degrees": 19,
+  "rear_thigh_rotation": 6,
+  "rear_shin_rotation": 65,
+  "rear_boot_translation": [
+    -7,
+    -12
+  ],
+  "front_thigh_rotation": -10,
+  "front_shin_rotation": -40,
+  "front_boot_rotation": 0,
+  "runtime_modified": false,
+  "review_note": "Rigid rotations preserve part scale; pixel diagonal edges still need visual approval."
+}

@@ -1,0 +1,30 @@
+{
+  "changed_pixel_count": 131,
+  "changed_bbox": [
+    10,
+    38,
+    25,
+    54
+  ],
+  "size": [
+    64,
+    64
+  ],
+  "body_front_foot_wraps_unchanged": true,
+  "original_palette_only": true,
+  "pose": "recovery (last user instruction), not push-off",
+  "knee": [
+    23,
+    47
+  ],
+  "ankle": [
+    17,
+    43
+  ],
+  "toe": [
+    11,
+    39
+  ],
+  "toe_direction": "up and backward, collinear with calf",
+  "runtime_modified": false
+}

@@ -1,0 +1,13 @@
+{
+  "source": "original front shoe pixels",
+  "mirror": true,
+  "rotation_degrees": -15,
+  "scale": 1,
+  "redrawn": false,
+  "body_front_foot_wraps_unchanged": true,
+  "size": [
+    64,
+    64
+  ],
+  "runtime_modified": false
+}
